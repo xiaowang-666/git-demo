@@ -17,3 +17,4 @@ hello jjajjja
 hello jjajjja
 test  
 test ssh
+mest ssh 使用push
