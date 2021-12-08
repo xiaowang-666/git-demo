@@ -23,3 +23,5 @@ mest ssh 使用push
 
 
 hello 第二次测iiii试  esc
+
+2021-12-8 15:31 test不用git add
